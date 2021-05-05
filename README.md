@@ -1,6 +1,6 @@
-# dramaf.github.io
+# dramaf.website
 
-I have redisigned dramaf.com website and these are .html and .css files used for the website.
+I have redesigned dramaf.com website and these are .html and .css files used for the website.
 
 # What is DramaF?
 
@@ -8,3 +8,4 @@ A Lahore based theater society from FAST University for those who want to experi
 
 
 DramaF is widely recognized as one of Pakistan's most popular and well-respected theatrical groups. This reputation stems from more than just the rewards the society accumulates with every passing season.
+
